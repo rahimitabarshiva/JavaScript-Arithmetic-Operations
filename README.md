@@ -1,6 +1,6 @@
 # JavaScript-Arithmetic-Operations
 **Enter two numbers to calculate their sum, difference, product, and quotient. 🧮**
-- [Demo Project]()
+- [Demo Project](https://rahimitabarshiva.github.io/JavaScript-Arithmetic-Operations/)
 
 - Developed by Shiva Rahimitabar
 
